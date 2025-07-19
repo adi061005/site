@@ -23,13 +23,10 @@ You can customize it with your own letter, photos, and even add a background son
 
 ## 👋 About Me
 
-Hey! I'm **Anuj**, a web developer and student who loves building unique websites like this to help people express feelings online.
+Hey! I'm **Aditya**, a web developer and student who loves building unique websites like this to help people express feelings online.
 
 Find me here:  
-- Instagram: [@anujbuilds](https://instagram.com/anujbuilds)  
-- YouTube: [@anujbuilds](https://youtube.com/anujbuilds)  
-- Twitter: [@anujbuilds](https://twitter.com/anujbuilds)  
-- LinkedIn: [anujchaudhary549](https://linkedin.com/in/anujchaudhary549)  
+- Instagram: [@aditya_yadav_061007](https://instagram.com/aditya_yadav_061007)    
 
 ---
 
