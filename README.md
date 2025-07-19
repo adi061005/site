@@ -40,4 +40,4 @@ Thank you for checking out this project! If you like it, please ⭐ star the rep
 
 ---
 
-_Made with 💖 by Anuj_
+_Made with 💖 by aditya yadav
